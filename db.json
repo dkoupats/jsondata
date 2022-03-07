@@ -2,13 +2,25 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "title": "First Post", 
+      "relation": "Technology", 
+      "author": "Dimitris", 
+      "body": [
+        "1st paragraph", 
+        "2nd paragraph"
+      ], 
+      "date": "2022-03-01"
     },
     {
       "id": 2,
-      "title": "http-server",
-      "author": "indexzero"
+      "title": "Second Post", 
+      "relation": "Science", 
+      "author": "Dimitris", 
+      "body": [
+        "1st paragraph", 
+        "2nd paragraph"
+      ], 
+      "date": "2022-03-02"
     }
   ],
   "comments": [
@@ -17,8 +29,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
