@@ -5,10 +5,7 @@
       "title": "First Post", 
       "relation": "Technology", 
       "author": "Dimitris", 
-      "body": [
-        "1st paragraph", 
-        "2nd paragraph"
-      ], 
+      "body": "first paragraph", 
       "date": "2022-03-01"
     },
     {
@@ -16,10 +13,7 @@
       "title": "Second Post", 
       "relation": "Science", 
       "author": "Dimitris", 
-      "body": [
-        "1st paragraph", 
-        "2nd paragraph"
-      ], 
+      "body": "second paragraph", 
       "date": "2022-03-02"
     }
   ],
