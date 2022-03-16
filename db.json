@@ -25,7 +25,6 @@
   ], 
   "featuredpost": 
   {
-      "id": 1,
       "title": "Featured Post", 
       "relation": "Technology", 
       "author": "Dimitris", 
