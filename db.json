@@ -5,7 +5,10 @@
       "title": "First Post", 
       "relation": "Technology", 
       "author": "Dimitris", 
-      "body": "first paragraph", 
+      "body": [ 
+        "first para", 
+        "second para" 
+      ], 
       "date": "2022-03-01"
     },
     {
@@ -13,15 +16,35 @@
       "title": "Second Post", 
       "relation": "Science", 
       "author": "Dimitris", 
-      "body": "second paragraph", 
+      "body": [ 
+        "first para", 
+        "second para" 
+      ], 
       "date": "2022-03-02"
     }
-  ],
+  ], 
+  "featuredpost": 
+  {
+      "id": 1,
+      "title": "Featured Post", 
+      "relation": "Technology", 
+      "author": "Dimitris", 
+      "body": [ 
+        "first para", 
+        "second para" 
+      ], 
+      "date": "2022-03-01" 
+  }, 
   "comments": [
     {
       "id": 1,
       "body": "some comment",
       "postId": 1
-    }
-  ]
+    }, 
+    {
+      "id": 2, 
+      "body": "some more comment", 
+      "postId": 1 
+    } 
+  ] 
 }
