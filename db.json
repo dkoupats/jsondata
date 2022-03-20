@@ -25,11 +25,11 @@
   ], 
   "featuredpost": 
   {
-      "title": "Featured Post", 
+      "title": "The Difficulty of Publishing One's Thoughts", 
       "relation": "Technology", 
-      "author": "Dimitris", 
+      "author": "Dimitris Koupatsiaris", 
       "body": [ 
-        "first para", 
+        "The motivation for this post was my decision to deploy my first personal webpage in Github. Although I anticipated the difficulty of producing the code for the webpage, I did not anticipate the seemingly simple process of writing down a few lines of text in order to make the blog real and not full of enpressions like post1, para2 and others that make the reader believe that the author is incapable of expressing himself/herself.", 
         "second para" 
       ], 
       "date": "2022-03-01" 
