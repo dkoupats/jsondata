@@ -4,10 +4,10 @@
       "id": 1,
       "title": "First Post", 
       "relation": "Technology", 
-      "author": "Dimitris", 
+      "author": "Dimitris Koupatsiaris", 
       "body": [ 
-        "first para", 
-        "second para" 
+        "Fist paragraph.", 
+        "Second paragraph." 
       ], 
       "date": "2022-03-01"
     },
@@ -15,10 +15,10 @@
       "id": 2,
       "title": "Second Post", 
       "relation": "Science", 
-      "author": "Dimitris", 
+      "author": "Dimitris Koupatsiaris", 
       "body": [ 
-        "first para", 
-        "second para" 
+        "Fist paragraph.", 
+        "Second paragraph." 
       ], 
       "date": "2022-03-02"
     }
